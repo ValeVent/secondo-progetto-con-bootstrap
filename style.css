@@ -5,7 +5,6 @@
 
 
 :root {
-
 /* Colors */
 --color-base: #ffffff;
 --color-primary: #2C3E50;
@@ -20,8 +19,6 @@
 --weight-2: 700;
 --weight-3: 300;
 
-/* Utilies */
-
 }
 
 html {
@@ -34,8 +31,6 @@ html {
 
 
 /* NAVBAR */
-
-
 .nav-logo {
     font-family: var(--font-primary);
     color: var(--color-base);
@@ -85,7 +80,6 @@ html {
 }
 
 /* HERO SECTION */
-
 .img-avatar {
     width: 15rem;
 }
@@ -145,7 +139,6 @@ html {
 }
 
 /* PORTFOLIO SECTION */
-
 .title-portfolio {
     color: var(--color-primary);
     font-family: var(--font-primary);
@@ -213,7 +206,6 @@ html {
 
 
 /* ABOUT SECTION */
-
 .container-about {
     background-color: var(--color-secondary);
     padding-top: calc(6rem + 74px);
@@ -239,7 +231,6 @@ html {
 
 
 /* CONTACT ME SECTION */
-
 .container-section {
     padding-top: calc(6rem + 74px);
     padding-bottom: 6rem;
@@ -253,7 +244,6 @@ html {
 }
 
 /* MEGA FOOTER */
-
 .btn-social {
     border-radius: 100%;
     display: inline-flex;
@@ -293,7 +283,6 @@ html {
 }
 
 /* FOOTER */
-
 small {
     color: var(--color-base);
     font-family: var(--font-secondary);
@@ -307,7 +296,6 @@ small {
 
 
 /* MODALS */
-
 .portfolio-modal-title {
     font-size: 2.25rem;
     line-height: 2rem;
@@ -315,8 +303,13 @@ small {
     font-weight: var(--weight-2);
 }
 
-
-
+/* MEDIA PER DISPOSITIVI MOBILE MOLTO PICCOLI */
+@media (max-width: 400px) {
+    .nav-logo {
+        font-size: 18px;
+    }
+}
+  
 
 
 
