@@ -10,11 +10,11 @@ Il template "Freelancer" è una landing page multi-sezione pensata per portfolio
 
 ## Tecnologie Utilizzate
 
-- HTML5: Struttura semantica dell'intera pagina web, organizzata in sezioni logiche (Navbar, Hero, Portfolio, About, Contact, Footer).
+- **HTML5**: Struttura semantica dell'intera pagina web, organizzata in sezioni logiche (Navbar, Hero, Portfolio, About, Contact, Footer).
 
-- CSS3: Styling personalizzato (style.css) che integra le variabili CSS per colori e font, e sovrascrive o estende le classi di Bootstrap per replicare fedelmente il design originale.
+- **CSS3**: Styling personalizzato (style.css) che integra le variabili CSS per colori e font, e sovrascrive o estende le classi di Bootstrap per replicare fedelmente il design originale.
 
-- Bootstrap 5: Framework CSS principale utilizzato per:
+- **Bootstrap 5**: Framework CSS principale utilizzato per:
 
   - Il sistema di griglia responsiva per il layout delle sezioni (es. Portfolio, About, Contact).
 
@@ -22,26 +22,26 @@ Il template "Freelancer" è una landing page multi-sezione pensata per portfolio
 
   - Utilità CSS per spaziatura, allineamento e responsività.
 
-- Font Awesome: Utilizzato per le icone decorative presenti in varie sezioni (es. stella nei divisori, icone social, icona download, icona "+" nei portfolio item).
+- **Font Awesome**: Utilizzato per le icone decorative presenti in varie sezioni (es. stella nei divisori, icone social, icona download, icona "+" nei portfolio item).
 
-- JavaScript: Utilizzato un piccolo script per la gestione del collapse della navbar su mobile, assicurando che il menu si chiuda automaticamente dopo aver cliccato su un link.
+- **JavaScript**: Utilizzato un piccolo script per la gestione del collapse della navbar su mobile, assicurando che il menu si chiuda automaticamente dopo aver cliccato su un link.
 
 
 ## Funzionalità Principali
 
-- Navbar Fissa e Responsiva: Una barra di navigazione che rimane fissa in alto, con un menu collassabile (hamburger) su dispositivi mobili.
+- **Navbar Fissa e Responsiva**: Una barra di navigazione che rimane fissa in alto, con un menu collassabile (hamburger) su dispositivi mobili.
 
-- Sezione Hero Personalizzabile: Area principale con un avatar, un titolo e un sottotitolo, con divisori stilizzati.
+- **Sezione Hero Personalizzabile**: Area principale con un avatar, un titolo e un sottotitolo, con divisori stilizzati.
 
-- Galleria Portfolio Interattiva: Una griglia responsiva di immagini di progetti. Cliccando su ogni immagine si apre un modale (pop-up) che mostra dettagli aggiuntivi del progetto.
+- **Galleria Portfolio Interattiva**: Una griglia responsiva di immagini di progetti. Cliccando su ogni immagine si apre un modale (pop-up) che mostra dettagli aggiuntivi del progetto.
 
-- Sezione "About": Descrizione del tema con layout a due colonne e un pulsante di download.
+- **Sezione "About"**: Descrizione del tema con layout a due colonne e un pulsante di download.
 
-- Form di Contatto: Un modulo completo per permettere ai visitatori di inviare messaggi, con campi per nome, email, telefono e messaggio.
+- **Form di Contatto**: Un modulo completo per permettere ai visitatori di inviare messaggi, con campi per nome, email, telefono e messaggio.
 
-- Mega Footer Dettagliato: Un footer strutturato su più colonne con informazioni di contatto, link social e una breve descrizione del template.
+- **Mega Footer Dettagliato**: Un footer strutturato su più colonne con informazioni di contatto, link social e una breve descrizione del template.
 
-- Footer di Copyright: Un footer inferiore separato con l'indicazione del copyright.
+- **Footer di Copyright**: Un footer inferiore separato con l'indicazione del copyright.
 
 
 ## Come Avviare il Progetto
@@ -89,8 +89,8 @@ Questo progetto è una replica fedele e funzionale del template "Freelancer", ch
 
 ## Contatti
 
-GitHub: https://github.com/ValeVent
+- **GitHub**: https://github.com/ValeVent
 
-LinkedIn: https://www.linkedin.com/in/valentina-venturo
+- **LinkedIn**: https://www.linkedin.com/in/valentina-venturo
 
-Sito Web: http://www.valentinaventuro.it
+- **Sito Web**: http://www.valentinaventuro.it
